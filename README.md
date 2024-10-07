@@ -1,1 +1,1 @@
-Created 11/15/21
+Quick and Exchange sort done in C.
